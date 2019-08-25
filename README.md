@@ -3,15 +3,15 @@
 A collaborative list of awesome Combine resources and libraries. Feel free to contribute!
 
 ## Content
-- Articles
-- Books
--  Documentation
-- Forum Discussions
-- Open Source
-- Reactive Programming
-- Talks (Conference/Meetups)
-- Testing
-- Videos
+- [Articles](https://github.com/riteshhgupta/awesome-combine#articles)
+- [Books](https://github.com/riteshhgupta/awesome-combine#books)
+- [ Documentation](https://github.com/riteshhgupta/awesome-combine#-documentation)
+- [Forum Discussions](https://github.com/riteshhgupta/awesome-combine#forum-discussions)
+- [Open Source](https://github.com/riteshhgupta/awesome-combine#open-source)
+- [Reactive Programming](https://github.com/riteshhgupta/awesome-combine#reactive-programming)
+- [Talks (Conference/Meetups)](https://github.com/riteshhgupta/awesome-combine#talks-conferencemeetups)
+- [Testing](https://github.com/riteshhgupta/awesome-combine#testing)
+- [Videos](https://github.com/riteshhgupta/awesome-combine#videos)
 
 ## Articles
 - [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
