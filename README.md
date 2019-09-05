@@ -14,6 +14,7 @@ A collaborative list of awesome Combine resources and libraries. Feel free to co
 - [Videos](https://github.com/riteshhgupta/awesome-combine#videos)
 
 ## Articles
+- [Combine 101](https://github.com/learncombine/Combine101)
 - [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
 - [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/)
 - [Combine debugging using operators in Swift](https://www.avanderlee.com/debugging/combine-swift/)
@@ -47,7 +48,6 @@ A collaborative list of awesome Combine resources and libraries. Feel free to co
 - [Combine Feedback](https://github.com/sergdort/CombineFeedback)
 - [Combine Playground](https://github.com/AvdLee/CombineSwiftPlayground)
 - [Combine Demo for SwiftIndia Conference](https://github.com/riteshhgupta/combine-demo-swiftindia)
-- [Combine 101](https://github.com/learncombine/Combine101)
 - [Combine Cocoa](https://github.com/freak4pc/CombineCocoa)
 - [Harvest](https://github.com/inamiy/Harvest/blob/master/README.md)
 - [RxSwift to Combine cheatsheet](https://github.com/freak4pc/rxswift-to-combine-cheatsheet)
