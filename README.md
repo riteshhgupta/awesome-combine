@@ -24,8 +24,17 @@ A collaborative list of awesome Combine resources and libraries. Feel free to co
 - [Custom Publishers - Part 1](https://ruiper.es/2019/08/05/custom-publishers-part1/)
 - [Custom Publishers - Part 2](https://ruiper.es/2019/08/09/custom-publishers-par-2/)
 - [22 short tests of Combine – Part 1: Protocols](https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-1.html)
+- [22 short tests of combine – Part 2: Sharing](https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-2.html)
 - [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77)
 - [On the Subject of Interface Hygiene](https://duan.ca/2019/07/01/combine-hygiene/)
+- [Problem solving with combine](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77)
+- [Will combine kill rxswift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89)
+- [MVVM with combine](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
+- [Swift Combine Framework Tutorial: Getting Started](https://www.vadimbulavin.com/swift-combine-framework-tutorial-getting-started/)
+- [Understanding Schedulers in Swift Combine Framework](https://www.vadimbulavin.com/understanding-schedulers-in-swift-combine-framework/)
+- [Transforming Operators in Swift Combine Framework](https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/)
+- [Error Handling in Swift Combine](https://www.vadimbulavin.com/error-handling-in-swift-combine-framework/)
+- [Combine vs RxSwift](https://apiumhub.com/tech-blog-barcelona/combine-vs-rxswift-differences/)
 
 ## Books
 - [Using Combine](https://heckj.github.io/swiftui-notes/)
@@ -52,6 +61,8 @@ A collaborative list of awesome Combine resources and libraries. Feel free to co
 - [Harvest](https://github.com/inamiy/Harvest/blob/master/README.md)
 - [RxSwift to Combine cheatsheet](https://github.com/freak4pc/rxswift-to-combine-cheatsheet)
 - [RxCombine](https://github.com/freak4pc/RxCombine)
+- [Combine Examples](https://github.com/tailec/CombineExamples)
+- [GRDBCombine](https://github.com/groue/GRDBCombine)
 
 
 ## Reactive Programming
