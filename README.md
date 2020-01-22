@@ -8,6 +8,7 @@ A collaborative list of awesome Combine resources and libraries. Feel free to co
 - [ Documentation](https://github.com/riteshhgupta/awesome-combine#-documentation)
 - [Forum Discussions](https://github.com/riteshhgupta/awesome-combine#forum-discussions)
 - [Open Source](https://github.com/riteshhgupta/awesome-combine#open-source)
+- [Gists](https://github.com/riteshhgupta/awesome-combine#gists)
 - [Reactive Programming](https://github.com/riteshhgupta/awesome-combine#reactive-programming)
 - [Talks (Conference/Meetups)](https://github.com/riteshhgupta/awesome-combine#talks-conferencemeetups)
 - [Testing](https://github.com/riteshhgupta/awesome-combine#testing)
@@ -64,6 +65,8 @@ A collaborative list of awesome Combine resources and libraries. Feel free to co
 - [Combine Examples](https://github.com/tailec/CombineExamples)
 - [GRDBCombine](https://github.com/groue/GRDBCombine)
 
+## Gists 
+- [FetchedResultsPublisher](https://gist.github.com/darrarski/28d2f5a28ef2c5669d199069c30d3d52)
 
 ## Reactive Programming
 - [FRP iOS Learning resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
